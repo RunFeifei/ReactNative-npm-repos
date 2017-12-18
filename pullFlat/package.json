@@ -1,13 +1,25 @@
 {
   "name": "pullflat",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "pull to refresh flatlist",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": ">=0.46"
+  },
   "dependencies": {
-    "react-addons-pure-render-mixin": "^15.6.2"
+    "react-addons-pure-render-mixin": "^15.6.2",
+	"eslint-config-prettier": "^2.8.0",
+    "eslint-plugin-prettier": "^2.3.1",
+    "invariant": "^2.2.2",
+    "lottie-ios": "^2.1.5",
+    "prettier": "^1.8.2",
+    "prettier-eslint": "^8.2.2",
+    "prop-types": "^15.5.10",
+    "react-native-safe-module": "^1.1.0"
   },
   "keywords": [
     "pullflat"
