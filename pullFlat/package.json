@@ -1,0 +1,17 @@
+{
+  "name": "pullflat",
+  "version": "1.0.0",
+  "description": "pull to refresh flatlist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react-addons-pure-render-mixin": "^15.6.2"
+  },
+  "keywords": [
+    "pullflat"
+  ],
+  "author": "feifei",
+  "license": "ISC"
+}
