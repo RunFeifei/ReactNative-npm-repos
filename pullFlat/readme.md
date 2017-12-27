@@ -6,4 +6,4 @@
 1 Android工程中 集成LottieAnimationViewManager & LottiePackage,这两个文件在lib/android中  
 2 IOS工程中 集成.m和.h文件,文件在lib/ios中  
 # install  
-RN工程中的package.json增加"pullflat": "^1.0.6"
+RN工程中的package.json增加"pullflat": "^1.0.8"
