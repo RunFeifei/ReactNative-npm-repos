@@ -1,6 +1,6 @@
 {
   "name": "pullflat",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "pull to refresh flatlist",
   "main": "index.js",
   "scripts": {
