@@ -1,0 +1,19 @@
+{
+  "name": "mocked-mpchart",
+  "version": "1.0.3",
+  "description": "mocked mpAndroid chart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "mpandroidchart"
+  ],
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
+  "author": "fei",
+  "license": "ISC"
+}
