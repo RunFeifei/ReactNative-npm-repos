@@ -1,7 +1,8 @@
 import React, {Component} from 'react';
-import {Animated, Easing, PanResponder, Platform, ScrollView, StyleSheet, View} from 'react-native';
+import {Animated, Easing, PanResponder, Platform, ScrollView, StyleSheet, View,Dimensions} from 'react-native';
 import PureRenderMixin from 'react-addons-pure-render-mixin';
 import LottieView from './LottieView';
+const {height: SCREEN_HEIGHT, width: SCREEN_WIDTH} = Dimensions.get('window');
 
 const pull_init = 0;
 const pull_start = 1;
